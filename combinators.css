@@ -1,0 +1,12 @@
+#c div{
+    color: green;
+}
+#c>div{
+    border: 3px solid red;
+}
+#p+p{
+    background-color: red;
+}
+#p~p{
+    color: blue;
+}
